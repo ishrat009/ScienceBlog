@@ -15,7 +15,7 @@ user email: test@testmail.com
 password: test
 
 Dummy Admin:
-Admin username: test
+Admin email:  test@testmail.com
 
 password: test
 
