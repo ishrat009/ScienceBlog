@@ -20,10 +20,10 @@
         
         <tr>
             <td>Password:</td>
-            <td><input type="password" name="password" placeholder="Your Password" tabindex="4"  required="1" regexp="JSVAL_RX_ALPHA_NUMERIC_WITHOUT_HIFANE" err="passwored not valid"/></td>
+            <td><input type="password" name="password" placeholder="Your Password" tabindex="2"  required="1" regexp="JSVAL_RX_ALPHA_NUMERIC_WITHOUT_HIFANE" err="passwored not valid"/></td>
         </tr>
         <tr>
-            <td colspan="2" align="center"><input type="submit" name="btn" tabindex="11" value="Login"/></td>
+            <td colspan="2" align="center"><input type="submit" name="btn" tabindex="3" value="Login"/></td>
         </tr>
     </table>
 </form>
